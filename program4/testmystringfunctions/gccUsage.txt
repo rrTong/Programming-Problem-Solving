@@ -1,0 +1,2 @@
+gcc -Wall -c mystringfunctions.c
+gcc -Wall testmystringfunctions.c mystringfunctions.o -o testmystringfunctions

@@ -1,0 +1,1 @@
+gcc -Wall matrixrotation.c -o matrixrotation
